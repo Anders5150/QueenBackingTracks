@@ -1,0 +1,408 @@
+.image1 {
+    position: absolute;
+    left: 10px;
+    top: 150px;
+    z-index: 2
+}
+
+.image2 {
+    position: absolute;
+    left: 110px;
+    top: 179px;
+    z-index: 2
+}
+
+img {
+    position: absolute;
+    left: 1px;
+    top: 10px;
+    z-index: 2;
+}
+
+.image3 {
+    position: absolute;
+    left: 10px;
+    top: 250px;
+    z-index: 2
+}
+
+.image4 {
+    position: absolute;
+    left: 110px;
+    top: 278px;
+    z-index: 2
+}
+
+.image5 {
+    position: absolute;
+    left: 10px;
+    top: 350px;
+    z-index: 2
+}
+
+.image6 {
+    position: absolute;
+    left: 110px;
+    top: 375px;
+    z-index: 2
+}
+
+.image7 {
+    position: absolute;
+    left: 10px;
+    top: 450px;
+    z-index: 1
+}
+
+.image8 {
+    position: absolute;
+    left: 110px;
+    top: 475px;
+    z-index: 2
+}
+
+.image9 {
+    position: absolute;
+    left: 10px;
+    top: 550px;
+    z-index: 1
+}
+
+.image10 {
+    position: absolute;
+    left: 110px;
+    top: 580px;
+    z-index: 2
+}
+
+.image11 {
+    position: absolute;
+    left: 10px;
+    top: 650px;
+    z-index: 1
+}
+
+.image12 {
+    position: absolute;
+    left: 110px;
+    top: 680px;
+    z-index: 2
+}
+
+.image13 {
+    position: absolute;
+    left: 10px;
+    top: 750px;
+    z-index: 1
+}
+
+.image14 {
+    position: absolute;
+    left: 110px;
+    top: 780px;
+    z-index: 2
+}
+
+.image15 {
+    position: absolute;
+    left: 10px;
+    top: 850px;
+    z-index: 1
+}
+
+.image16 {
+    position: absolute;
+    left: 110px;
+    top: 880px;
+    z-index: 2
+}
+
+.image17 {
+    position: absolute;
+    left: 10px;
+    top: 950px;
+    z-index: 1
+}
+
+.image18 {
+    position: absolute;
+    left: 110px;
+    top: 980px;
+    z-index: 2
+}
+
+.image19 {
+    position: absolute;
+    left: 10px;
+    top: 1050px;
+    z-index: 1
+}
+
+.image20 {
+    position: absolute;
+    left: 110px;
+    top: 1080px;
+    z-index: 2
+}
+
+.image21 {
+    position: absolute;
+    left: 10px;
+    top: 1150px;
+    z-index: 1
+}
+
+.image22 {
+    position: absolute;
+    left: 110px;
+    top: 1180px;
+    z-index: 2
+}
+
+.image23 {
+    position: absolute;
+    left: 10px;
+    top: 1250px;
+    z-index: 1
+}
+
+.image24 {
+    position: absolute;
+    left: 110px;
+    top: 1280px;
+    z-index: 2
+}
+
+.image25 {
+    position: absolute;
+    left: 10px;
+    top: 1350px;
+    z-index: 1
+}
+
+.image26 {
+    position: absolute;
+    left: 110px;
+    top: 1380px;
+    z-index: 2
+}
+
+body {
+    background-image: url("madeinheavenstatue.jpeg");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+    background-size: cover;
+}
+
+.image0 {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.image100 {
+    position: relative;
+    top: 30px;
+    left: 30px;
+}
+
+.image27 {
+    position: absolute;
+    left: 10px;
+    top: 1450px;
+    z-index: 1
+}
+
+.image28 {
+    position: absolute;
+    left: 110px;
+    top: 1480px;
+    z-index: 2
+}
+
+.i1 {
+    position: absolute;
+    left: 10px;
+    top: 150px;
+    z-index: 2
+}
+
+.i2 {
+    position: absolute;
+    left: 10px;
+    top: 250px;
+    z-index: 2
+}
+
+.i3 {
+    position: absolute;
+    left: 10px;
+    top: 350px;
+    z-index: 2
+}
+
+.i4 {
+    position: absolute;
+    left: 100px;
+    top: 450px;
+    z-index: 2
+}
+
+.i5 {
+    position: absolute;
+    left: 100px;
+    top: 550px;
+    z-index: 2
+}
+
+.i6 {
+    position: absolute;
+    left: 100px;
+    top: 650px;
+    z-index: 2
+}
+
+.i7 {
+    position: absolute;
+    left: 100px;
+    top: 750px;
+    z-index: 2
+}
+
+.i8 {
+    position: absolute;
+    left: 100px;
+    top: 850px;
+    z-index: 2
+}
+
+.i9 {
+    position: absolute;
+    left: 100px;
+    top: 950px;
+    z-index: 2
+}
+
+.i10 {
+    position: absolute;
+    left: 100px;
+    top: 1050px;
+    z-index: 2
+}
+
+.i11 {
+    position: absolute;
+    left: 100px;
+    top: 1150px;
+    z-index: 2
+}
+
+.i12 {
+    position: absolute;
+    left: 100px;
+    top: 1250px;
+    z-index: 2
+}
+
+.i13 {
+    position: absolute;
+    left: 100px;
+    top: 1350px;
+    z-index: 2
+}
+
+.i14 {
+    position: absolute;
+    left: 100px;
+    top: 1450px;
+    z-index: 2
+}
+.i15 {
+    position: absolute;
+    left: 100px;
+    top: 1550px;
+    z-index: 2
+}
+.i16 {
+    position: absolute;
+    left: 100px;
+    top: 1650px;
+    z-index: 2
+}
+.i17 {
+    position: absolute;
+    left: 100px;
+    top: 1750px;
+    z-index: 2
+}
+.i18 {
+    position: absolute;
+    left: 100px;
+    top: 1850px;
+    z-index: 2
+}
+
+.i100 {
+    position: relative;
+    top: -10px;
+    left: 30px;
+}
+
+.image29 {
+    position: absolute;
+    left: 10px;
+    top: 1550px;
+    z-index: 1
+}
+
+.image30 {
+    position: absolute;
+    left: 110px;
+    top: 1580px;
+    z-index: 2
+}
+
+.image31 {
+    position: absolute;
+    left: 10px;
+    top: 1650px;
+    z-index: 1
+}
+
+.image32 {
+    position: absolute;
+    left: 110px;
+    top: 1680px;
+    z-index: 2
+}
+
+.image33 {
+    position: absolute;
+    left: 10px;
+    top: 1750px;
+    z-index: 1
+}
+
+.image34 {
+    position: absolute;
+    left: 110px;
+    top: 1780px;
+    z-index: 2
+}
+
+.image35 {
+    position: absolute;
+    left: 10px;
+    top: 1850px;
+    z-index: 1
+}
+
+.image36 {
+    position: absolute;
+    left: 110px;
+    top: 1880px;
+    z-index: 2
+}
